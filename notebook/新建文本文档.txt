@@ -1,0 +1,5 @@
+﻿lombok插件的使用
+@JsonProperty的用法
+productVO.setProductInfoVOList(Arrays.asList(productInfoVO));
+BeanUtils
+@Entity
