@@ -1,5 +1,8 @@
-﻿lombok插件的使用
-@JsonProperty的用法
-productVO.setProductInfoVOList(Arrays.asList(productInfoVO));
-BeanUtils
-@Entity
+﻿
+multiply
+
+synchronized
+
+stream().map
+option类转化为实体类
+属性拷贝的时候注意：null也会被拷贝过去
