@@ -6,3 +6,8 @@ synchronized
 stream().map
 option类转化为实体类
 属性拷贝的时候注意：null也会被拷贝过去
+Valid
+gson
+
+spring.jackson.default-property-inclusion=non_null
+所有为null 的字段都不返回。

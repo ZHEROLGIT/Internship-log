@@ -48,3 +48,7 @@
 			return "error/duplicate";
 		}
 	}
+
+* @Entity 
+
+代表这个注解下的类代表数据库的一张表。
