@@ -60,3 +60,11 @@ po的作用简单的说就是将数据库中的表映射成java对象，就是�
 
 MyBatis 插入空值时，需要指定JdbcType 
 mybatis insert空值报空值异常，但是在pl/sql不会提示错误，主要原因是mybatis无法进行转换，
+
+单件模式
+代理模式（Proxy模式）
+
+aHlD#Od&F8v?
+
+
+
